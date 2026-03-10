@@ -25,6 +25,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+| cjenki8          | cjenks1            | 6            |
 | cbhowar          | cbhowar            | 4            |
 | colburh          | colbywillhill      | 5            |
 | mphendr          | Mello-Does-Streams | 12           |
