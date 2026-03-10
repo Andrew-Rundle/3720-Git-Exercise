@@ -3,7 +3,9 @@
 Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in with GitHub before beginning this assignment. If you do not have Git installed, go [here](https://github.com/git-guides/install-git) and follow the installation instructions.
 
 <ins>Contributors List</ins>
+
 - cjacob5
+- lreitel
 - kravadi
 - ppugh
 - cnowell
@@ -30,9 +32,10 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 - bjcarpe
 - balabau
 
-| Clemson Username |    Git Username    | Group Number |
+| Clemson Username | Git Username       | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+| lreitel          | lancereitelbach    | 6            |
 | kravadi          | kravadi            | 1            |
 | ppugh            | ppugh16            | Group 5      |
 | kpatel8          |  krishhpatel       | 1            |
