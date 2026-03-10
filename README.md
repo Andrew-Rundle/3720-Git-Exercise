@@ -5,6 +5,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 <ins>Contributors List</ins>
 
 - cjacob5
+- drisser
 - lreitel
 - kravadi
 - ppugh
@@ -35,6 +36,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username | Git Username       | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+| drisser          | dyrisser           | 2            |
 | sreyno8          |lexreynolds03       | 7            |
 | lreitel          | lancereitelbach    | 6            |
 | kravadi          | kravadi            | 1            |
