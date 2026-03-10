@@ -18,6 +18,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+| zjfogl           | zach-fogle         | 3            |
 | nenibta          | NorEnibtawi        | Team 6       |
 |     jze          | JustinEllis03      |     8        |
 | levi             | LeviDy3r           | None         |
